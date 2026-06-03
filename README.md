@@ -1,51 +1,42 @@
-# TextUtils 🚀
+# 📝 TextUtils
 
-TextUtils is a modern React-based web application designed for efficient text manipulation and analysis. The application provides multiple utility features that help users quickly transform, manage, and analyze text through a clean, responsive, and user-friendly interface.
-
----
+TextUtils is a modern React-based web application designed for efficient text manipulation and analysis. It provides multiple utility features that help users quickly transform, manage, and analyze text through a clean, responsive, and user-friendly interface.
 
 ## ✨ Features
 
-- Convert text to Uppercase & Lowercase
-- Remove extra spaces instantly
-- Copy text with one click
-- Clear text quickly
-- Word & character counter
-- Reading time estimation
-- Dark mode support
-- Responsive UI design
-- Fast and lightweight performance
-
----
+* 🔠 Convert text to Uppercase and Lowercase
+* 🧹 Remove extra spaces instantly
+* 📋 Copy text with a single click
+* 🗑️ Clear text quickly
+* 📊 Word and Character Counter
+* ⏱️ Reading Time Estimation
+* 🌙 Dark Mode Support
+* 📱 Responsive User Interface
+* ⚡ Fast and Lightweight Performance
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
 
----
+* ⚛️ React.js
+* ⚡ JavaScript (ES6+)
+* 🌐 HTML5
+* 🎨 CSS3
+* 📦 Bootstrap
 
 ## 📂 Modules
 
-- Text Transformation
-- Text Analysis
-- Clipboard Functionality
-- Theme Toggle
-- Responsive Components
-
----
+* 🔄 Text Transformation
+* 📈 Text Analysis
+* 📋 Clipboard Functionality
+* 🌙 Theme Toggle
+* 📱 Responsive Components
 
 ## 📸 Preview
 
 <p align="center">
   <img src="./textutils_preview.webp.png" width="1000" />
 </p>
-
----
 
 ## 🚀 Getting Started
 
@@ -73,32 +64,26 @@ npm install
 npm start
 ```
 
----
-
 ## 🌐 Live Demo
 
 🔗 https://vighneshchiluka.github.io/textutils
 
----
-
 ## 🎯 Future Improvements
 
-- Grammar correction
-- Speech-to-text support
-- Text translation
-- Export text as PDF
-- File upload support
+* 🤖 Grammar Correction
+* 🎤 Speech-to-Text Support
+* 🌍 Text Translation
+* 📄 Export Text as PDF
+* 📁 File Upload Support
 
----
+## 👨‍💻 Developer
 
-## 👨‍💻 Author
+### Vighnesh Chiluka
 
-**Vighnesh Chiluka**
+🌐 Portfolio: https://vighneshchiluka.netlify.app
 
-- GitHub: https://github.com/vighneshchiluka
+💼 LinkedIn: https://www.linkedin.com/in/vighneshchiluka/
 
----
-
-## 📜 License
+🐙 GitHub: https://github.com/vighneshchiluka
 
 This project is created for learning, practice, and portfolio purposes.
